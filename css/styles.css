@@ -9,6 +9,10 @@ margin: 100px orange;
 
 
 }
+#map {
+margin-top: -60px
+
+}
 
 body	{
 background: url(../img/bg.png);
